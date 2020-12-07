@@ -3,6 +3,10 @@ Run the following Setup Scripts to Configure and Install Jupyter and the tools u
 * OSINTToolSetup.sh
 * JupyterSetup.sh
 
+For MacOS:
+* OSINTToolSetup_mac.sh
+* JupyterSetup_mac.sh
+
 # JupyterPen
 A Repository dedicated to creating modular and automated penetration testing frameworks utilizing Jupyter Notebooks
 
